@@ -1,9 +1,25 @@
-##  Key Objectives
+# Time Series Modeling and Forecasting
 
-- Simulate various Autoregressive (AR), Moving Average (MA), and combined (ARMA/ARIMA) models.
-- Fit different time series models to both simulated and real-world datasets.
-- Compare empirical and theoretical Autocorrelation Functions (ACF) and Partial Autocorrelation Functions (PACF).
-- Select the most appropriate model using statistical criteria such as AIC and BIC.
-- Perform model diagnostics through residual analysis and validation of underlying assumptions.
-- Evaluate model performance using relevant statistical metrics.
-- Generate forecasts and assess their accuracy.
+
+## Key Objectives
+
+- Simulate autoregressive (AR) and moving average (MA) processes.
+- Fit different time series models to simulated and real-world data.
+- Compare theoretical and empirical ACF and PACF functions.
+- Identify appropriate time series models.
+- Estimate model parameters.
+- Perform residual diagnostics and white noise tests.
+- Evaluate model adequacy using statistical criteria.
+- Generate and analyze forecasts.
+- Compare forecasting performance across models.
+  
+## Tools
+
+- R
+- R Markdown
+- forecast
+- TSA
+- stats
+- ggplot2
+- Time Series Analysis
+- ARIMA Modeling
